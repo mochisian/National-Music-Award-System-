@@ -1,0 +1,11 @@
+[
+    {
+        "email": "admin01@gmail.com",
+        "isDeleted": false,
+        "passwordHash": "Admin_123",
+        "phoneNumber": "",
+        "userId": "ADM001",
+        "userType": "ADMIN",
+        "username": "Admin_123"
+    }
+]
